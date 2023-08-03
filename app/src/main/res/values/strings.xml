@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Luck</string>
+    <string name="difficulty">Choose the difficulty!</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="guess_the_cards">Guess the cards</string>
+    <string name="text_need_internet">Подключитесь к интернету и нажмите кнопку</string>
+    <string name="text_have_internet">Есть интернет</string>
+    <string name="restart_internet">Перезапустить</string>
+</resources>

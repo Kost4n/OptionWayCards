@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_lg_width">140dp</dimen>
+    <dimen name="card_lg_height">200dp</dimen>
+    <dimen name="card_lg_mg">40dp</dimen>
+    <dimen name="card_lg_mg_start">27.5dp</dimen>
+    <dimen name="card_md_width">120dp</dimen>
+    <dimen name="card_md_height">140dp</dimen>
+    <dimen name="card_md_mg">40dp</dimen>
+    <dimen name="card_md_mg_start">40dp</dimen>
+    <dimen name="card_sm_width">100dp</dimen>
+    <dimen name="card_sm_height">120dp</dimen>
+    <dimen name="card_sm_mg">60dp</dimen>
+    <dimen name="card_sm_mg_start">17.5dp</dimen>
+
+</resources>

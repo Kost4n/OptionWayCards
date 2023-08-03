@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861902113748",
+    "project_id": "lykkonsm",
+    "storage_bucket": "lykkonsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861902113748:android:b19ad017ecd00a17036441",
+        "android_client_info": {
+          "package_name": "plenty.lucky.rotations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861902113748-p22felaucig946lgarrvh2odt7305q8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbQbw3Vgpkz13L3VBvfr5KIOWLUB02VMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861902113748-p22felaucig946lgarrvh2odt7305q8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
